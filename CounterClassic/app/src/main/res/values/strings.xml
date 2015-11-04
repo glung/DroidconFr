@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CounterClassic</string>
+    <string name="up">UP</string>
+    <string name="down">DOWN</string>
+</resources>
