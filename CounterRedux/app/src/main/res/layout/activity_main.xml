@@ -19,5 +19,7 @@
     <TextView
         android:id="@+id/counter"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="34sp"/>
 </LinearLayout>

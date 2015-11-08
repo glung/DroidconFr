@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CounterRedux</string>
+    <string name="app_name">Counter - Redux</string>
     <string name="up">UP</string>
     <string name="down">DOWN</string>
 </resources>
